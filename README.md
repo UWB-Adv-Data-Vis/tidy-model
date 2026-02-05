@@ -270,7 +270,7 @@ Without detailed instruction, try to build a linear model of at least three vari
 
 You can find the data in the diamonds object:
 
-```load(ggplot2::diamonds)```
+```ggplot2::diamonds```
 
 Write commits, knit, and push all your work when you finish.
 
